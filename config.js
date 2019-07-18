@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Site Prezentare - GrayScale | WebsiteMarket', // <title>
+  siteTitle: 'Creare Site - GrayScale | WebsiteMarket', // <title>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Site Prezentare',
+  heading: 'Creare Site',
   subHeading: 'GrayScale',
   // social
   socialLinks: [
@@ -16,11 +16,6 @@ module.exports = {
       icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/creare-site/site-prezentare-grayscale',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://site-prezentare-afacere.websitemarket.ro/',
     },
     {
       icon: 'fa-facebook',

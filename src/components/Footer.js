@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-black small text-center text-white-50">
       <div className="container">
-        &copy; <a href="https://websitemarket.ro">WebsiteMarket</a>
+        &copy; <a href="https://websitemarket.ro/?ref=site-grayscale">WebsiteMarket</a>
       </div>
     </footer>
   );
