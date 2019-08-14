@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site prezentare grayscale](https://raw.githubusercontent.com/creare-site/static/master/produse/site-prezentare-grayscale.jpg)
+![Site prezentare grayscale](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-grayscale-intro.gif)
 
 <br />
 
